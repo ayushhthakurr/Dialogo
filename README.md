@@ -1,14 +1,2 @@
 # dialogo
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+A simple and intuitive chat app developed with Flutter. Connect and communicate effortlessly with real-time messaging. Enjoy instant and reliable conversations on this hassle-free platform.
