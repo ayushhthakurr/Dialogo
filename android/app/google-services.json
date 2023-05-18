@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "566669299919",
+    "project_id": "dialogo-28a03",
+    "storage_bucket": "dialogo-28a03.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566669299919:android:f60220a73fe269e50be7ba",
+        "android_client_info": {
+          "package_name": "com.example.dialogo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "566669299919-h1d22hke30ic1p9i8eavjmn2nsnt5fd6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dialogo",
+            "certificate_hash": "cec4f88fc97a1b6333a3d099bcf2b893ddfed059"
+          }
+        },
+        {
+          "client_id": "566669299919-48rt2lm8v9l1klvueiikdhhnad96bla4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFkT6vk7f8gs76ydRpZwP1IstqLBQtoZ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "566669299919-48rt2lm8v9l1klvueiikdhhnad96bla4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
